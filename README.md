@@ -1,2 +1,2 @@
 # JAVA
-JAVA training
+Code I wrote in java to review and study.
